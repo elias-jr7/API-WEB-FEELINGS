@@ -17,3 +17,7 @@ Para el diseño de la página decidi usar Bootstrap que me parecio una diseño m
 En el srcipt.js están todas las funciones que uso como la de llamar al token, clickar y que se actualice todo etc.. Y para el diseño de la página web elegí esta api: 
 [https://api-inference.huggingface.co/models/distilbert-base-uncased-finetuned-sst-2-english](https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english)
 
+En el .gitignore puse el .env poque contiene claves sensibles como el ACCESS_TOKEN y el PORT; es decir, en tu máquina debes crear el .env t poner"ACCES_TOKEN=hf_XXXXXXXXXXXXXXXXX y PORT=XXXX.
+
+
+
