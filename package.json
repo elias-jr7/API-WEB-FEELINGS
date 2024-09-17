@@ -1,0 +1,10 @@
+{
+  "name": "bun",
+  "license": "MIT",
+  "dependencies": {
+    "hono": "^4.6.1"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.0.12"
+  }
+}
